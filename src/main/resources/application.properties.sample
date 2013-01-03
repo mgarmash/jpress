@@ -1,0 +1,7 @@
+filter.repo=https://github\\.com/linx56/.*
+filter.exclude=\\.git/.*
+
+aws.key=XXXXXXXXXXXXXXXXXXXX
+aws.secret=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+aws.bucket=xxx.xxxxxxx.xxx
+
